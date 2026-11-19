@@ -5,3 +5,4 @@ tiktoken
 chromadb
 pysqlite3-binary
 requests
+openai-agents
